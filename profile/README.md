@@ -1,17 +1,17 @@
 ## Algorithm Creation, Algorithm Modification, Algorithm Adaptation, Model Structure and Creation Type, Merging, Operating System
 
 
-## Algorithm Creation
+### Algorithm Creation
 
-## Algorithm Modification
+### Algorithm Modification
 
-## Algorithm Adaptation
+### Algorithm Adaptation
 
-## Model Structure
+### Model Structure
 
-## Creation Type
+### Creation Type
 
-## Operating System
+### Operating System
 
 <!--
 
