@@ -1,4 +1,4 @@
-## Algorithm Creation, Algorithm Modification, Algorithm Adaptation, Model Structure and Creation Type, Merging, Operating System
+## Algorithm Creation, Algorithm Modification, Algorithm Adaptation, Model Structure and Creation Type, Merging, Operating System, Operating System Architecture
 
 
 ### Algorithm Creation
@@ -12,6 +12,8 @@
 ### Creation Type
 
 ### Operating System
+
+### Operating System Architecture
 
 <!--
 
