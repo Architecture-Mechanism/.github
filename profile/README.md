@@ -19,9 +19,9 @@
 
 ### Security
 
+## 📈 Organization Stats: <a href="https://github.com/Algorithm-Model-Research"> <img src="https://komarev.com/ghpvc/?username=Algorithm-Model-Research&label=Profile+Views&color=2e8b57&style=flat" /></a>
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
