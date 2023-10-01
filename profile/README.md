@@ -1,5 +1,5 @@
 # 🧙 Organization Website
-- https://algorithm-model-research.github.io/
+- https://algorithm-model-research.github.io
 
 # 🙋‍♀️ Information Organization
 - Public Api / Sdk / Packages / Library limited information on usability and installation will be on organization websites
@@ -39,9 +39,9 @@
 
 # 🍿 Syncs Organization 
 
-- https://github.com/Robotics-Sensors/
-- https://github.com/Application-UI-UX/
-- https://github.com/Artificial-Intelligence-Computer-Vision/
+- https://github.com/Robotics-Sensors
+- https://github.com/Application-UI-UX
+- https://github.com/Artificial-Intelligence-Computer-Vision
 
 
 <!--
