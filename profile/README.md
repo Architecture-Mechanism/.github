@@ -7,7 +7,7 @@
 # 🧙 Organization Website
 - https://algorithm-model-research.github.io
 
-# Discord Community
+# 🌱 Discord Community
 - https://discord.gg/Yc72nd4w
 
 # 🙋‍♀️ Information Organization
