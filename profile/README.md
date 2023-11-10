@@ -29,31 +29,31 @@
 ## ⚡ Algorithm Creation, Algorithm Modification, Algorithm Adaptation, Model Structure and Creation Type, Merging, Operating System, Operating System Architecture, Operating System Creation, Security
 
 ### Algorithm Creation
-- 100% private contact Director director of organization
+- 100% private contact director of organization
 
 ### Algorithm Modification
-- 100% private contact Director director of organization
+- 100% private contact director of organization
 
 ### Algorithm Adaptation
-- 100% private contact Director director of organization
+- 100% private contact director of organization
 
 ### Model Structure
-- 100% private contact Director director of organization
+- 100% private contact director of organization
 
 ### Creation Type
-- 100% private contact Director director of organization
+- 100% private contact director of organization
 
 ### Operating System
-- 100% private contact Director director of organization
+- 100% private contact director of organization
 
 ### Operating System Architecture
-- 100% private contact Director director of organization
+- 100% private contact director of organization
 
 ### Operating System Creation
-- 100% private contact Director director of organization
+- 100% private contact director of organization
 
 ### Security
-- 99% private contact Director director of organization
+- 99% private contact director of organization
 
 ## 📈 Organization Stats: <a href="https://github.com/Algorithm-Model-Research"> <img src="https://komarev.com/ghpvc/?username=Algorithm-Model-Research&label=Profile+Views&color=2e8b57&style=flat" /></a>
 
