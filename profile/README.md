@@ -1,9 +1,11 @@
 [![Website](https://img.shields.io/badge/Visit%20our-Website-0099cc?style=for-the-badge)](https://algorithm-model-research.github.io)
 [![Discord](https://img.shields.io/badge/Join%20our-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/fdkGVKp7wx)
 [![Sponsor](https://img.shields.io/badge/Sponsor-Algorithm%20Model%20Research-red?style=for-the-badge&logo=github)](https://github.com/sponsors/Algorithm-Model-Research)
-[![Sponsor](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-algorithm-model-research-innovation-center)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-algorithm-model-research-innovation-center)
+[![Youtube](https://img.shields.io/badge/YouTube-Organization-white?style=for-the-badge)](https://www.youtube.com/channel/UC2JWJpFQzU0in5EVZwiso8g)
 
-# 📫 Director & Founder & Owner of AMR Organization
+
+# 📫 Director & Founder & Owner of BA&MRI Center Organization
 - **Ronaldson Bellande**
 - **ronaldsonbellande@gmail.com**
 
