@@ -2,9 +2,9 @@
 
 ## Explore Our Platforms
 
-- [![Sponsor](https://img.shields.io/badge/Sponsor-Algorithm%20Model%20Research-red?style=for-the-badge&logo=github)](https://github.com/sponsors/Algorithm-Model-Research)
-- [![Linkedin](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-algorithm-model-research-innovation-center)
-- [![Youtube](https://img.shields.io/badge/YouTube-Organization-white?style=for-the-badge)](https://www.youtube.com/channel/UC2JWJpFQzU0in5EVZwiso8g)
+[![Sponsor](https://img.shields.io/badge/Sponsor-Algorithm%20Model%20Research-red?style=for-the-badge&logo=github)](https://github.com/sponsors/Algorithm-Model-Research)
+[![Linkedin](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-algorithm-model-research-innovation-center)
+[![Youtube](https://img.shields.io/badge/YouTube-Organization-white?style=for-the-badge)](https://www.youtube.com/channel/UC2JWJpFQzU0in5EVZwiso8g)
 
 ## 📫 Meet Ronaldson Bellande, Director & Founder & Owner
 
@@ -17,6 +17,11 @@
 ## 🌱 Join Our Discord Community
 
 - [![Discord Community](https://img.shields.io/badge/Join%20Our-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/fdkGVKp7wx)
+
+# ✨ Team/Community Contribute
+
+- [![Team/Community Contribute](https://img.shields.io/badge/Team/Community-Contribute-0099cc?style=for-the-badge)](https://github.com/Application-UI-UX/algorithm_model_contributor)
+- Comprehensive instructions are available within the repository, guiding you on how to identify the project or research assignment you wish to contribute to. These instructions outline the steps for effective and meaningful contributions.
 
 ## 🙋‍♀️ Information Organization
 
