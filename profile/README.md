@@ -6,8 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-algorithm-model-research-innovation-center)
 [![Youtube](https://img.shields.io/badge/YouTube-Organization-white?style=for-the-badge)](https://www.youtube.com/channel/UC2JWJpFQzU0in5EVZwiso8g)
 
-## 📫 Meet Ronaldson Bellande, Director & Founder & Owner
-
+# 📫 Meet Ronaldson Bellande, President & Executive & Director & Founder & Owner of BA&MRI Center Organization
 - 📧 **Email:** ronaldsonbellande@gmail.com
 
 ## 🧙 Organization Website
