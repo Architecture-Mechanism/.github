@@ -1,6 +1,16 @@
-![Organization Logo](https://github.com/Algorithm-Model-Research.png)
+<table style="border-collapse: collapse;"><tr><td valign="middle" width="35%" style="text-align: center; vertical-align: middle;">
+<!-- starts -->
 
-# Welcome to the Bellande Algorithm & Model Research Innovation Center 🚀🧠
+<h1 style="margin: 0; padding: 0;">Welcome to the Bellande Algorithm & Model Research Innovation Center 🚀🧠</h1>
+
+<!-- ends -->
+</td><td valign="top" width="65%">
+<!-- starts -->
+  
+<img src="https://github.com/Algorithm-Model-Research.png" alt="Organization Logo" style="width: 100%;">
+  
+<!-- ends -->
+</td></tr></table>
 
 ## Explore Our Platforms
 
