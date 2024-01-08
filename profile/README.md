@@ -1,3 +1,5 @@
+![Organization Logo](https://github.com/Algorithm-Model-Research.png)
+
 # Welcome to the Bellande Algorithm & Model Research Innovation Center 🚀🧠
 
 ## Explore Our Platforms
