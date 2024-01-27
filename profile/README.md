@@ -34,7 +34,7 @@
 
 # ✨ Team/Community Contribute
 
-- [![Team/Community Contribute](https://img.shields.io/badge/Team/Community-Contribute-0099cc?style=for-the-badge)](https://github.com/Application-UI-UX/bellande_algorithm_model_research_innovation_center_contribution)
+- [![Team/Community Contribute](https://img.shields.io/badge/Team/Community-Contribute-0099cc?style=for-the-badge)](https://github.com/Algorithm-Model-Research/bellande_algorithm_model_research_innovation_center_contribution)
 - Comprehensive instructions are available within the repository, guiding you on how to identify the project or research assignment you wish to contribute to. These instructions outline the steps for effective and meaningful contributions.
 
 ## 🙋‍♀️ Information Organization
