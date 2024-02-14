@@ -37,6 +37,10 @@
 - [![Team/Community Contribute](https://img.shields.io/badge/Team/Community-Contribute-0099cc?style=for-the-badge)](https://github.com/Algorithm-Model-Research/bellande_algorithm_model_research_innovation_center_contribution)
 - Comprehensive instructions are available within the repository, guiding you on how to identify the project or research assignment you wish to contribute to. These instructions outline the steps for effective and meaningful contributions.
 
+## 🎓 Organization Classroom
+- [![Organization Classroom](https://img.shields.io/badge/Organization-Classroom-00cc66?style=for-the-badge)](https://classroom.github.com/classrooms/96305722-bellande-algorithm-model-research-innovation-center-classroom)
+- Individuals who are not affiliated as clients, companies, organizations involved in procurement, integral members of the organizational team or contributor contributing to its goals daily are cordially invited to participate in the organization's educational initiatives on how to contribute to the organization more effectively.
+
 ## 🙋‍♀️ Information Organization
 
 - **Public Resources:** Limited information on Public API, SDK, Packages, and Library usability and installation will be available on our [organization's website](https://algorithm-model-research.github.io).
