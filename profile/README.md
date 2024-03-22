@@ -70,6 +70,11 @@ Explore our ongoing research domains, where we delve into cutting-edge advanceme
 - [![Algorithm Adaptation](https://img.shields.io/badge/Algorithm%20Adaptation-Explore-0099cc?style=for-the-badge)](#)
   - Exploring techniques to adapt algorithms to diverse environments and changing conditions.
 
+
+### 💻 Embedded System
+- [![Embedded System](https://img.shields.io/badge/Embedded%20System-Explore-0099cc?style=for-the-badge)](#)
+  - Creation of related to embedded system of operating system for different functionalities and complexety of applications in all type of embedded system programming language and created languages.
+
 ### 🏗️ Model Structure
 - [![Model Structure](https://img.shields.io/badge/Model%20Structure-Explore-0099cc?style=for-the-badge)](#)
   - Advancements in designing the architecture and structure of models for optimal performance.
