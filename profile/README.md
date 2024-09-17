@@ -3,7 +3,7 @@
 <table style="border-collapse: collapse;"><tr><td valign="middle" width="35%" style="text-align: center; vertical-align: middle;">
 <!-- starts -->
 
-<h1 style="margin: 0; padding: 0;">Welcome to the Bellande Algorithm & Model Research Innovation Center 🚀🧠</h1>
+<h1 style="margin: 0; padding: 0;">Welcome to the Bellande Architecture & Mechanism Research Innovation Center 🚀🧠</h1>
 
 <!-- ends -->
 </td><td valign="top" width="65%">
@@ -56,7 +56,7 @@
 
 --------------------------------------------------------------------------------------------------------
 
-## ⚡ Research Domains in Algorithm Model
+## ⚡ Research Domains in Architecture & Mechanism
 
 Explore our ongoing research domains, where we delve into cutting-edge advancements and innovation in the field of algorithm and model creation:
 
@@ -113,6 +113,6 @@ Explore our ongoing research domains, where we delve into cutting-edge advanceme
 - [![Application UI/UX](https://img.shields.io/badge/Application%20UI%2FUX-Explore-0099cc?style=for-the-badge)](https://github.com/Application-UI-UX)  
 - [![Artificial Intelligence Computer Vision](https://img.shields.io/badge/Artificial%20Intelligence%20Computer%20Vision-Explore-0099cc?style=for-the-badge)](https://github.com/Artificial-Intelligence-Computer-Vision)
 
-Feel free to immerse yourself in the world of innovation and discovery with Bellande Algorithm & Model Research Innovation Center! 🚀✨
+Feel free to immerse yourself in the world of innovation and discovery with Bellande Architecture & Mechanism Research Innovation Center! 🚀✨
 
 <img src="https://github.com/RonaldsonBellande/RonaldsonBellande/blob/main/label/organizations_company.png" alt="Bellande Organizations & Company" width="1000"/>
