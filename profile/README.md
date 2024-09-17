@@ -9,7 +9,7 @@
 </td><td valign="top" width="65%">
 <!-- starts -->
   
-<img src="https://github.com/Algorithm-Model-Research.png" alt="Organization Logo" style="width: 100%;">
+<img src="https://github.com/Architecture-Mechanism.png" alt="Organization Logo" style="width: 100%;">
   
 <!-- ends -->
 </td></tr></table>
