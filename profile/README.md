@@ -15,7 +15,6 @@
 </td></tr></table>
 
 ## Explore Our Platforms
-
 [![Sponsor](https://img.shields.io/badge/Sponsor-Algorithm%20Model%20Research-red?style=for-the-badge&logo=github)](https://github.com/sponsors/Algorithm-Model-Research)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-algorithm-model-research-innovation-center)
 [![Youtube](https://img.shields.io/badge/YouTube-Organization-white?style=for-the-badge)](https://www.youtube.com/channel/UC2JWJpFQzU0in5EVZwiso8g)
@@ -27,15 +26,12 @@
 [![Watch the video](https://img.youtube.com/vi/t2Fxxco8G_M/0.jpg)](https://www.youtube.com/watch?v=t2Fxxco8G_M)
 
 ## 🧙 Organization Website
-
 - [![Organization Website](https://img.shields.io/badge/Explore%20Our-Website-0099cc?style=for-the-badge)](https://algorithm-model-research.github.io)
 
 ## 🌱 Join Our Discord Community
-
 - [![Discord Community](https://img.shields.io/badge/Join%20Our-Discord-7289DA?logo=discord&style=for-the-badge)](https://discord.gg/fdkGVKp7wx)
 
 # ✨ Team/Community Contribute
-
 - [![Team/Community Contribute](https://img.shields.io/badge/Team/Community-Contribute-0099cc?style=for-the-badge)](https://github.com/Algorithm-Model-Research/bellande_algorithm_model_research_innovation_center_contribution)
 - Comprehensive instructions are available within the repository, guiding you on how to identify the project or research assignment you wish to contribute to. These instructions outline the steps for effective and meaningful contributions.
 
@@ -44,20 +40,17 @@
 - Individuals who are not affiliated as clients, companies, organizations involved in procurement, integral members of the organizational team or contributor contributing to its goals daily are cordially invited to participate in the organization's educational initiatives on how to contribute to the organization more effectively.
 
 ## 🙋‍♀️ Information Organization
-
 - **Public Resources:** Limited information on Public API, SDK, Packages, and Library usability and installation will be available on our [organization's website](https://algorithm-model-research.github.io).
 - **Private Resources:** Comprehensive information on Private Application, Architecture, Automation, API, SDK, Packages, Library, and Designs usability and installation will be accessible on our company website.
 - **Full Public API/SDK/Library Details:** In-depth details regarding the usability and installation of Public API, SDK, and Libraries can be found on our company website.
 
 ## 🌈 Research
-
 - Research related to this organization will be available in research papers published by Ronaldson Bellande.
 - Non-published research will showcase demos on our company website.
 
 --------------------------------------------------------------------------------------------------------
 
 ## ⚡ Research Domains in Architecture & Mechanism
-
 Explore our ongoing research domains, where we delve into cutting-edge advancements and innovation in the field of algorithm and model creation:
 
 ### 🧠 Algorithm Creation
@@ -104,11 +97,9 @@ Explore our ongoing research domains, where we delve into cutting-edge advanceme
 
 
 ## 📈 Organization Stats
-
 - [![Profile Views](https://komarev.com/ghpvc/?username=Algorithm-Model-Research&label=Profile+Views&color=2e8b57&style=flat)](https://github.com/Algorithm-Model-Research)
 
 # 🍿 Explore Our Synced Organizations 
-
 - [![Robotics Sensors](https://img.shields.io/badge/Robotics%20Sensors-Explore-0099cc?style=for-the-badge)](https://github.com/Robotics-Sensors)  
 - [![Application UI/UX](https://img.shields.io/badge/Application%20UI%2FUX-Explore-0099cc?style=for-the-badge)](https://github.com/Application-UI-UX)  
 - [![Artificial Intelligence Computer Vision](https://img.shields.io/badge/Artificial%20Intelligence%20Computer%20Vision-Explore-0099cc?style=for-the-badge)](https://github.com/Artificial-Intelligence-Computer-Vision)
