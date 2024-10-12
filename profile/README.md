@@ -25,6 +25,7 @@
 
 # 📫 Meet Ronaldson Bellande, President & Executive & Director & Founder & Owner of BA&MRI Center Organization
 - 📧 **Email:** ronaldsonbellande@gmail.com
+- 📧 **Organization Email:** ronaldsonbellande@bellande-architecture-mechanism-research-innovation-center.org
 
 # 🧰 Insights: Step into the forefront of Innovation of Bellande Algoritm and Model Innovation Video 
 [![Watch the video](https://img.youtube.com/vi/t2Fxxco8G_M/0.jpg)](https://www.youtube.com/watch?v=t2Fxxco8G_M)
