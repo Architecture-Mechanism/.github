@@ -27,7 +27,7 @@
 - 📧 **Email:** ronaldsonbellande@gmail.com
 - 📧 **Organization Email:** ronaldsonbellande@bellande-architecture-mechanism-research-innovation-center.org
 
-# 🧰 Insights: Step into the forefront of Innovation of Bellande Algoritm and Model Innovation Video 
+# 🧰 Insights: Step into the forefront of Innovation of Bellande Architecture Mechanism Innovation Video 
 [![Watch the video](https://img.youtube.com/vi/t2Fxxco8G_M/0.jpg)](https://www.youtube.com/watch?v=t2Fxxco8G_M)
 
 ## 🧙 Organization Website
@@ -106,7 +106,7 @@ Explore our ongoing research domains, where we delve into cutting-edge advanceme
 
 # 🍿 Explore Our Synced Organizations 
 - [![Robotics Sensors](https://img.shields.io/badge/Robotics%20Sensors-Explore-0099cc?style=for-the-badge)](https://github.com/Robotics-Sensors)  
-- [![Application UI/UX](https://img.shields.io/badge/Application%20UI%2FUX-Explore-0099cc?style=for-the-badge)](https://github.com/Application-UI-UX)  
+- [![Application Interoperability Xenogen](https://img.shields.io/badge/Application%20Interoperability%2FXenogen-Explore-0099cc?style=for-the-badge)](https://github.com/Application-UI-UX)  
 - [![Artificial Intelligence Computer Vision](https://img.shields.io/badge/Artificial%20Intelligence%20Computer%20Vision-Explore-0099cc?style=for-the-badge)](https://github.com/Artificial-Intelligence-Computer-Vision)
 
 Feel free to immerse yourself in the world of innovation and discovery with Bellande Architecture & Mechanism Research Innovation Center! 🚀✨
