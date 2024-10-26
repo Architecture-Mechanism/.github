@@ -103,7 +103,7 @@ Explore our ongoing research domains, where we delve into cutting-edge advanceme
 
 
 ## 📈 Organization Stats
-- [![Profile Views](https://komarev.com/ghpvc/?username=Algorithm-Model-Research&label=Profile+Views&color=2e8b57&style=flat)](https://github.com/Algorithm-Model-Research)
+- [![Profile Views](https://komarev.com/ghpvc/?username=Architecture-Mechanism&label=Profile+Views&color=2e8b57&style=flat)](https://github.com/Architecture-Mechanism)
 
 # 🍿 Explore Our Synced Organizations 
 - [![Robotics Sensors](https://img.shields.io/badge/Robotics%20Sensors-Explore-0099cc?style=for-the-badge)](https://github.com/Robotics-Sensors)  
