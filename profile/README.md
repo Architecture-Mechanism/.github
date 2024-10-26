@@ -19,9 +19,10 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-algorithm-model-research-innovation-center)
 [![Youtube](https://img.shields.io/badge/YouTube-Organization-white?style=for-the-badge)](https://www.youtube.com/channel/UC2JWJpFQzU0in5EVZwiso8g)
 
-## Bellande Architecture Mechanism Research Innovation Center Licensing
+## Bellande Architecture Mechanism Research Innovation Center Licensing & Code of Conduct
 - https://github.com/Architecture-Mechanism/LICENSING
 - https://github.com/Architecture-Mechanism/.github
+- https://github.com/Architecture-Mechanism/CODE_OF_CONDUCT
 
 # 📫 Meet Ronaldson Bellande, President & Executive & Director & Founder & Owner of BA&MRI Center Organization
 - 📧 **Email:** ronaldsonbellande@gmail.com
