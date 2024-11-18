@@ -14,6 +14,12 @@
 <!-- ends -->
 </td></tr></table>
 
+# BAMRI Git Organization (Bellande Technologies Git)
+[![BAMRI Git Organization Website](https://img.shields.io/badge/BAMRI%20Git%20Organization%20Website-blue?style=for-the-badge&logo=git)](https://git.bellande-technologies.com/BAMRI)
+
+# BAMRI Github Organization
+[![BAMRI Github Organization Website](https://img.shields.io/badge/BAMRI%20Github%20Organization%20Website-blue?style=for-the-badge&logo=github)](https://github.com/Architecture-Mechanism)
+
 ## Explore Our Platforms
 [![Sponsor](https://img.shields.io/badge/Sponsor-Algorithm%20Model%20Research-red?style=for-the-badge&logo=github)](https://github.com/sponsors/Algorithm-Model-Research)
 [![Linkedin](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-algorithm-model-research-innovation-center)
