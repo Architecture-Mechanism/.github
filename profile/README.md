@@ -112,11 +112,15 @@ Explore our ongoing research domains, where we delve into cutting-edge advanceme
   - Investigating security aspects related to algorithms and model implementations.
 
 
-
 ## 📈 Organization Stats
 - [![Profile Views](https://komarev.com/ghpvc/?username=Architecture-Mechanism&label=Profile+Views&color=2e8b57&style=flat)](https://github.com/Architecture-Mechanism)
 
-# 🍿 Explore Our Synced Organizations 
+# 🍿 (Bellande Technologies Git) Explore Our Synced Organizations 
+- [![Robotics Sensors](https://img.shields.io/badge/Robotics%20Sensors-Explore-0099cc?style=for-the-badge)](https://git.bellande-technologies.com/BRSRI)  
+- [![Application Interoperability Xenogen](https://img.shields.io/badge/Application%20Interoperability%20Xenogen-Explore-0099cc?style=for-the-badge)](https://git.bellande-technologies.com/BAIXRI)  
+- [![Artificial Intelligence Computer Vision](https://img.shields.io/badge/Artificial%20Intelligence%20Computer%20Vision-Explore-0099cc?style=for-the-badge)](https://git.bellande-technologies.com/BAICVRI)
+
+# 🍿 (Github) Explore Our Synced Organizations 
 - [![Robotics Sensors](https://img.shields.io/badge/Robotics%20Sensors-Explore-0099cc?style=for-the-badge)](https://github.com/Robotics-Sensors)  
 - [![Application Interoperability Xenogen](https://img.shields.io/badge/Application%20Interoperability%20Xenogen-Explore-0099cc?style=for-the-badge)](https://github.com/Application-Interoperability-Xenogen)  
 - [![Artificial Intelligence Computer Vision](https://img.shields.io/badge/Artificial%20Intelligence%20Computer%20Vision-Explore-0099cc?style=for-the-badge)](https://github.com/Artificial-Intelligence-Computer-Vision)
