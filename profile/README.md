@@ -111,7 +111,6 @@ Explore our ongoing research domains, where we delve into cutting-edge advanceme
 - [![Security](https://img.shields.io/badge/Security-Explore-0099cc?style=for-the-badge)](#)
   - Investigating security aspects related to algorithms and model implementations.
 
-
 ## 📈 Organization Stats
 - [![Profile Views](https://komarev.com/ghpvc/?username=Architecture-Mechanism&label=Profile+Views&color=2e8b57&style=flat)](https://github.com/Architecture-Mechanism)
 
