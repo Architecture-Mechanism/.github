@@ -25,12 +25,14 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-Organization-green?style=for-the-badge)](https://www.linkedin.com/company/bellande-algorithm-model-research-innovation-center)
 [![Youtube](https://img.shields.io/badge/YouTube-Organization-white?style=for-the-badge)](https://www.youtube.com/channel/UC2JWJpFQzU0in5EVZwiso8g)
 
-## (Bellande Technologies Git) Bellande Architecture Mechanism Research Innovation Center Licensing & Code of Conduct
+## (Bellande Technologies Git) Bellande Architecture Mechanism Research Innovation Center Copyright, Licensing, Code of Conduct
+- https://git.bellande-technologies.com/BAMRI/COPYRIGHT
 - https://git.bellande-technologies.com/BAMRI/LICENSING
 - https://git.bellande-technologies.com/BAMRI/.profile
 - https://git.bellande-technologies.com/BAMRI/CODE_OF_CONDUCT
 
-## (Github) Bellande Architecture Mechanism Research Innovation Center Licensing & Code of Conduct
+## (Github) Bellande Architecture Mechanism Research Innovation Center Copyright, Licensing, Code of Conduct
+- https://github.com/Architecture-Mechanism/COPYRIGHT
 - https://github.com/Architecture-Mechanism/LICENSING
 - https://github.com/Architecture-Mechanism/.github
 - https://github.com/Architecture-Mechanism/CODE_OF_CONDUCT
